@@ -1,2 +1,0 @@
-# NFT-Collection
-NFT collection
